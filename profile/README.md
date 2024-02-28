@@ -1,6 +1,13 @@
 <p align="center"><img src="https://plastiscan.org/static/imagenes/minervaLOGO.png" alt="project-image"></p>
 <h4>Somos un equipo de trabajo multidisciplinar que se formó para elaborar el Proyecto Final del I DIPLOMA DE EXTENSIÓN UNIVERSITARIA EN INTELIGENCIA ARTIFICIAL AVANZADA SAMSUNG INNOVATION CAMPUS (2023-24) de la Universidad de Málaga que aborda de manera intensiva el aprendizaje de programación con Python matemáticas para la ciencia de datos estadística y desarrollo de aplicaciones basadas en diferentes ramas del Machine Learning.</h4>
 <br>
+<h4>Equipo</h4>
+
+- **Adriana:**  Programación y diseño web. <a href="https://www.linkedin.com/in/adriana-porrero-diaz-858988204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+- **Cris:**  Programación, diseño y desarrollo web. <a href="https://www.linkedin.com/in/crismll/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+- **Jess:**  EDA, limpieza y preprocesado de datos y programación. <a href="https://www.linkedin.com/in/jessicapinas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+- **Laura:**  Tareas organizativas, tratamiento de datos y programación. <a href="https://www.linkedin.com/in/lauramorenoseomalaga/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+- **Vero:**  Preparación de datos, programación y desarrollo web. <a href="https://www.linkedin.com/in/veronica-martinezz/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 
 
 <h2> Contacto </h2>  
@@ -12,8 +19,7 @@
 <br>
 
 
-
-<h2 align="left">Languajes y herramientas:</h2>  
+<h2 align="left">Lenguajes y herramientas:</h2>  
   
   
 <p align="left"> 
