@@ -8,7 +8,7 @@
 - **Jess:**  EDA, limpieza y preprocesado de datos y programación. <a href="https://www.linkedin.com/in/jessicapinas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 - **Laura:**  Tareas organizativas, tratamiento de datos y programación. <a href="https://www.linkedin.com/in/lauramorenoseomalaga/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 - **Vero:**  Preparación de datos, programación y desarrollo web. <a href="https://www.linkedin.com/in/veronica-martinezz/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-
+<br>
 
 <h2> Contacto </h2>  
 
